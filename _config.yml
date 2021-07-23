@@ -11,7 +11,7 @@ title:            'Renee Wu'
 tagline:          'A blog'
 description:      'A place where Renee puts her thoughts to'
 url:              
-baseurl:          /
+baseurl:          //
 
 author:
   name:           'Renee Wu'
