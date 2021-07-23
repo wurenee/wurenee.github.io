@@ -10,8 +10,8 @@ theme:            minima
 title:            'Renee Wu'
 tagline:          'A blog'
 description:      'A place where Renee puts her thoughts to'
-url:              https://wurenee.github.io/
-baseurl:          
+url:              https://wurenee.github.io
+baseurl:          /
 
 author:
   name:           'Renee Wu'
