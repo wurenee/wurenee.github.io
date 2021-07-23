@@ -3,7 +3,7 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-theme:            architect
+theme:            hyde
 
 # Setup
 title:            'Renee Wu'
