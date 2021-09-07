@@ -16,7 +16,7 @@ Some fun facts about the setup of this project include:
 {% endcomment %}
 
 ## Something I want to explore
-* Returning to writing after years of falling out
-*
+* Writing again after years of falling out
+* ..
 
 ## My interests
