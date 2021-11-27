@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nov 27th - Rick and Morty, a story about grief
+title: Rick and Morty, a story about grief
 ---
 
 
